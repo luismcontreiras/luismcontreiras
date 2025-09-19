@@ -13,4 +13,4 @@ Finalist of **Informatics and Computing Engineering** at the [Faculty of Enginee
 ---
 
 ### 💼 Experience
-- **Curricular Internship at INESCTEC (February 2025 – June 2025):** Dashboard Frontend @ [INESCTEC](https://www.inesctec.pt)  
+- **Curricular Internship at INESCTEC (February 2025 – June 2025):** Dynamic Dashboard Generation @ [INESCTEC](https://www.inesctec.pt)  
