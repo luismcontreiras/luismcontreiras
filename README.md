@@ -1,10 +1,8 @@
 ### Hello there 👋
 
-#### Informatics and Computing Engineering student passionate about software development, systems design, and emerging technologies
+#### I’m curious by nature and enjoy exploring many sides of my field — from software development and web design to cybersecurity, computer networks and systems, computer graphics, and app development.
 
 Finalist of **Informatics and Computing Engineering** at the [Faculty of Engineering, University of Porto (FEUP)](https://sigarra.up.pt/feup/en/web_page.Inicial).  
-
-- 🤖 I have completed projects in **web development**, **AI**, **computer graphics**, **app development**, and much more.  
 
 ### 🛠️ Skills
 - Programming Languages: `.c`, `.cpp`, `.java`, `.py`, `.js`, `.dart`, `.php`, `.pl` *(Prolog)*, `.hs` *(Haskell)*, `.sql`  
