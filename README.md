@@ -1,6 +1,6 @@
 ### Hello there 👋
 
-#### I’m curious by nature and enjoy exploring many sides of my field — from software development and web design to cybersecurity, computer networks and systems, computer graphics, and app development.
+#### My main passion lies in software development, especially web and app development. At the same time, I’m deeply interested in computer networks and systems , graphics and cybersecurity.
 
 Finalist of **Informatics and Computing Engineering** at the [Faculty of Engineering, University of Porto (FEUP)](https://sigarra.up.pt/feup/en/web_page.Inicial).  
 
