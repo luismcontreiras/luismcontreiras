@@ -1,6 +1,6 @@
-### Hello there 👋
+### Hello there my name is Luís Contreiras 👋
 
-#### My main passion lies in software development, especially web and app development. At the same time, I’m deeply interested in computer networks and systems , graphics and cybersecurity.
+#### My main passion lies in software development, especially web and app development. At the same time, I’m deeply interested in computer networks and systems, graphics and cybersecurity.
 
 Finalist of **Informatics and Computing Engineering** at the [Faculty of Engineering, University of Porto (FEUP)](https://sigarra.up.pt/feup/en/web_page.Inicial).  
 
